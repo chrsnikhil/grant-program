@@ -1,5 +1,5 @@
 # Built-in AES-256 Encryption for Cere DDC SDK
-## Proposal submitted to Cere Foundation on [DATE] by Chris Nikhil Fernando
+## Proposal submitted to Cere Foundation on 17.12.2025 by Chris Nikhil Fernando
 
 ---
 
@@ -116,3 +116,4 @@ Upon completion of Milestone 1, I am open to continuing work on Milestone 2 and 
 This proposal focuses on a narrowly defined, high-impact SDK improvement with clear security and developer experience benefits. The work is intentionally scoped to ensure fast delivery, high test coverage, and minimal risk to existing functionality.
 
 ---
+
