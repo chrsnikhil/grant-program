@@ -48,8 +48,7 @@ I have prior experience working with Web3 SDKs, cryptographic primitives, and te
 This proposal focuses on a tightly scoped, security-critical SDK contribution, leveraging my experience in delivering high-quality infrastructure components quickly and reliably.
 
 ### Team Code Repos
-
-- https://github.com/chrsnikhil/nightingale  
+  
 - https://github.com/chrsnikhil  
 
 ### Team GitHub Accounts
@@ -116,4 +115,5 @@ Upon completion of Milestone 1, I am open to continuing work on Milestone 2 and 
 This proposal focuses on a narrowly defined, high-impact SDK improvement with clear security and developer experience benefits. The work is intentionally scoped to ensure fast delivery, high test coverage, and minimal risk to existing functionality.
 
 ---
+
 
